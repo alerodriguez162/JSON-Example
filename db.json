@@ -1,46 +1,44 @@
 {
-  "data": {
-    "products": [
-      {
-        "category": "paper",
-        "id": 1,
-        "image": "https://pepapaper.com/wp-content/uploads/2020/01/recambio-libreta-a4_1.jpg",
-        "name": "Notebook",
-        "price": 7.99,
-        "stock": 3
-      },
-      {
-        "category": "paper",
-        "id": 2,
-        "image": "https://s3-us-west-2.amazonaws.com/melingoimages/Images/70572.jpg",
-        "name": "Pen",
-        "price": 1.95,
-        "stock": 15
-      },
-      {
-        "category": "paper",
-        "id": 1,
-        "image": "https://officemax.vteximg.com.br/arquivos/ids/185976-720-720/61415_2.jpg?v=636941159578630000",
-        "name": "Folder",
-        "price": 5.5,
-        "stock": 0
-      },
-      {
-        "category": "tools",
-        "id": 1,
-        "image": "https://m.media-amazon.com/images/I/71Yz+YiQG3L._AC_SS350_.jpg",
-        "name": "12 in ruler",
-        "price": 3.99,
-        "stock": 8
-      },
-      {
-        "category": "tools",
-        "id": 1,
-        "image": "https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/4/94806_high_6_.jpg",
-        "name": "Square ruler",
-        "price": 8.95,
-        "stock": 4
-      }
-    ]
-  }
+  "products": [
+    {
+      "category": "paper",
+      "id": 1,
+      "image": "https://pepapaper.com/wp-content/uploads/2020/01/recambio-libreta-a4_1.jpg",
+      "name": "Notebook",
+      "price": 7.99,
+      "stock": 3
+    },
+    {
+      "category": "paper",
+      "id": 2,
+      "image": "https://s3-us-west-2.amazonaws.com/melingoimages/Images/70572.jpg",
+      "name": "Pen",
+      "price": 1.95,
+      "stock": 15
+    },
+    {
+      "category": "paper",
+      "id": 1,
+      "image": "https://officemax.vteximg.com.br/arquivos/ids/185976-720-720/61415_2.jpg?v=636941159578630000",
+      "name": "Folder",
+      "price": 5.5,
+      "stock": 0
+    },
+    {
+      "category": "tools",
+      "id": 1,
+      "image": "https://m.media-amazon.com/images/I/71Yz+YiQG3L._AC_SS350_.jpg",
+      "name": "12 in ruler",
+      "price": 3.99,
+      "stock": 8
+    },
+    {
+      "category": "tools",
+      "id": 1,
+      "image": "https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/4/94806_high_6_.jpg",
+      "name": "Square ruler",
+      "price": 8.95,
+      "stock": 4
+    }
+  ]
 }
